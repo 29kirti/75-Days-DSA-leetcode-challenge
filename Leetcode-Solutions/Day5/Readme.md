@@ -4,4 +4,4 @@
 
 
 ## 📝 Solution:
-The solution is implemented in `Day5_PivotInteger.java`.
+The solution is implemented in 'Day5_Pivot'.
